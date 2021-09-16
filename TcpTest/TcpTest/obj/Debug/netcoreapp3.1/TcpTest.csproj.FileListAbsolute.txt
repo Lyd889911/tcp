@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpTest\bin\Debug\netcoreapp3.1\TcpTest.exe
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpTest\bin\Debug\netcoreapp3.1\TcpTest.deps.json
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpTest\bin\Debug\netcoreapp3.1\TcpTest.runtimeconfig.json
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpTest\bin\Debug\netcoreapp3.1\TcpTest.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpTest\bin\Debug\netcoreapp3.1\TcpTest.dll
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpTest\bin\Debug\netcoreapp3.1\TcpTest.pdb
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpTest\obj\Debug\netcoreapp3.1\TcpTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpTest\obj\Debug\netcoreapp3.1\TcpTest.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpTest\obj\Debug\netcoreapp3.1\TcpTest.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpTest\obj\Debug\netcoreapp3.1\TcpTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpTest\obj\Debug\netcoreapp3.1\TcpTest.dll
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpTest\obj\Debug\netcoreapp3.1\TcpTest.pdb
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpTest\obj\Debug\netcoreapp3.1\TcpTest.genruntimeconfig.cache

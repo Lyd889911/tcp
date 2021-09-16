@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\bin\Release\netcoreapp3.1\TcpWinF.exe
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\bin\Release\netcoreapp3.1\TcpWinF.deps.json
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\bin\Release\netcoreapp3.1\TcpWinF.runtimeconfig.json
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\bin\Release\netcoreapp3.1\TcpWinF.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\bin\Release\netcoreapp3.1\TcpWinF.dll
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\bin\Release\netcoreapp3.1\TcpWinF.pdb
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\obj\Release\netcoreapp3.1\TcpWinF.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\obj\Release\netcoreapp3.1\TcpWinF.Form1.resources
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\obj\Release\netcoreapp3.1\TcpWinF.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\obj\Release\netcoreapp3.1\TcpWinF.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\obj\Release\netcoreapp3.1\TcpWinF.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\obj\Release\netcoreapp3.1\TcpWinF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\obj\Release\netcoreapp3.1\TcpWinF.dll
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\obj\Release\netcoreapp3.1\TcpWinF.pdb
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\obj\Release\netcoreapp3.1\TcpWinF.genruntimeconfig.cache

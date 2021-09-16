@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\bin\Release\netcoreapp3.1\publish\TcpWinF.exe
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\bin\Release\netcoreapp3.1\publish\TcpWinF.dll
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\bin\Release\netcoreapp3.1\publish\TcpWinF.deps.json
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\bin\Release\netcoreapp3.1\publish\TcpWinF.runtimeconfig.json
+C:\Users\Administrator\Desktop\RFID\Tcp\TcpTest\TcpWinF\bin\Release\netcoreapp3.1\publish\TcpWinF.pdb
